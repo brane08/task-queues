@@ -1,0 +1,8 @@
+### Get films
+GET http://localhost:8000/pg/films
+
+### Get Actors
+GET http://localhost:8000/pg/actors
+
+### Get Actor by ID
+GET http://localhost:8000/pg/actors/19

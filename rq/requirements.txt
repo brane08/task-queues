@@ -1,0 +1,11 @@
+apscheduler
+dnspython
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pymongo
+pydantic
+rq
+supervisor
+celery

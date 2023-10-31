@@ -1,0 +1,6 @@
+sqlalchemy
+psycopg2-binary
+pymongo
+pydantic
+supervisor
+celery

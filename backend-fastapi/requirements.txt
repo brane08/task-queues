@@ -1,0 +1,6 @@
+apscheduler
+dnspython
+fastapi[all]
+sqlalchemy
+psycopg2-binary
+pymongo
